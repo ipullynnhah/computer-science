@@ -2,8 +2,8 @@
 
 ## Setup
 
-> Python version: `3.12.3`
-> Python Packages: `requirements.txt`
+- > Python version: `3.12.3`
+- > Python Packages: [`requirements.txt`](requirements.txt)
 
 ## Projects
 
